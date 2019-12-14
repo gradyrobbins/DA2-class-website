@@ -31,6 +31,11 @@
             "name": "Pandas",
             "image": "pandas.png",
             "link":"https://pandas.pydata.org/"
-        }
+        },
+        {
+            "id": 6,
+            "name": "Tableau",
+            "image": "tableau.png",
+            "link": "https://www.tableau.com/"        }
     ]
 }
